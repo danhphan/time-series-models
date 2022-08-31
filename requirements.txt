@@ -1,0 +1,10 @@
+pymc>=4.15
+torch>=1.9
+scikit-learn
+scipy
+matplotlib
+gpytorch==1.6.0
+jupyterlab
+seaborn
+mogptk==0.2.6
+GPy==1.10.0
